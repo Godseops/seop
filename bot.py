@@ -205,4 +205,4 @@ async def finish_teams(channel):
     await channel.send(msg)
 
 # 봇 실행
-bot.run("MTM2MTgyMjU2MTk2NDY1NDgwNA.GEUdYg.ZdUA0cbneJdao-JpiKU4tYe_9rhKZljiW1c2TE")
+bot.run("MTM2MTgyMjU2MTk2NDY1NDgwNA.GG9Hel.WRAhoeB7wEffIJhA_ECZ-XI-7gm_VIhiJeWT_E")
